@@ -1,3 +1,5 @@
+> Hello, I’m a software engineer specializing in building Web Applications. I started with Angular & ASP.NET and now i use ReactJs & ASP.NET Core. I love Onion Architecture with CQRS.
+- 
 - 👋 Hi, I’m @QzLP2P
 - 👀 I’m interested in development
 - 🌱 I’m currently learning azure software development
