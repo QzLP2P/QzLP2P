@@ -1,5 +1,5 @@
 ></br>
-<h1 align="center" style="font-size: 75px;"><b> Mathis brehm </b></h1>
+<h1 align="center" style="font-size: 75px;"><b> Thomas GICQUEL </b></h1>
 </br>
 
 <p align="center">
