@@ -35,14 +35,20 @@ use ReactJs & ASP.NET Core. I love Onion Architecture with CQRS.
 </h2>
 
 <div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QzLP2P&theme=react)
+  
+</div>
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QzLP2P&theme=react)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QzLP2P&theme=react)
 
-  ![Lethargi's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qzlp2p&theme=react)
-  ![Lethargi's
-  commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qzlp2p&theme=react&utcOffset=1)
-  ![Lethargi's
-  graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzlp2p&theme=react)
-  ![Lethargi's
-  languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qzlp2p&hide_border=false&border_color=0000&title_color=FF0055&text_color=03C6E0&bg_color=141321&layout=compact)
+</div>
+<div align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QzLP2P&theme=react)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QzLP2P&theme=react&utcOffset=8)
 
 </div>
 
