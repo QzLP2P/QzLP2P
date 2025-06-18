@@ -36,11 +36,11 @@ use ReactJs & ASP.NET Core. I love Onion Architecture with CQRS.
 
 <div align="center">
 
-  ![Lethargi's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qzlp2p&theme=2077)
+  ![Lethargi's stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qzlp2p&theme=react)
   ![Lethargi's
-  commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qzlp2p&theme=2077&utcOffset=1)
+  commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qzlp2p&theme=react&utcOffset=1)
   ![Lethargi's
-  graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzlp2p&theme=2077)
+  graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzlp2p&theme=react)
   ![Lethargi's
   languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qzlp2p&hide_border=false&border_color=0000&title_color=FF0055&text_color=03C6E0&bg_color=141321&layout=compact)
 
